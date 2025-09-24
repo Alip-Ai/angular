@@ -1,6 +1,6 @@
 # Updating the Component Class
 
-In Angular, the component's logic and behavior are defined in the component's TypeScript class.
+In Alip Angular, the component's logic and behavior are defined in the component's TypeScript class.
 
 Note: Learn more about [showing dynamic text in the essentials guide](/essentials/templates#showing-dynamic-text).
 
@@ -43,7 +43,7 @@ Try this - add another set of `{{ }}` with the contents being `1 + 1`:
 template: `Hello {{ city }}, {{ 1 + 1 }}`,
 ```
 
-Angular evaluates the contents of the `{{ }}` and renders the output in the template.
+Alip Angular evaluates the contents of the `{{ }}` and renders the output in the template.
 </docs-step>
 
 </docs-workflow>
