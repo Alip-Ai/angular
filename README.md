@@ -1,9 +1,9 @@
-<h1 align="center">Angular - The modern web developer's platform</h1>
+<h1 align="center">Alip Angular - The modern web developer's platform</h1>
 
 <p align="center">
   <img src="adev/src/assets/images/press-kit/angular_icon_gradient.gif" alt="angular-logo" width="120px" height="120px"/>
   <br>
-  <em>Angular is a development platform for building mobile and desktop web applications
+  <em>Alip Angular is a development platform for building mobile and desktop web applications
     <br> using TypeScript/JavaScript and other languages.</em>
   <br>
 </p>
@@ -33,7 +33,7 @@
 
 ## Documentation
 
-Get started with Angular, learn the fundamentals and explore advanced topics on our documentation website.
+Get started with Alip Angular, learn the fundamentals and explore advanced topics on our documentation website.
 
 - [Getting Started][quickstart]
 - [Architecture][architecture]
@@ -61,7 +61,7 @@ To contribute to the Angular Docs, check out the [Angular.dev README](adev/READM
 
 ### Setting Up a Project
 
-Install the Angular CLI globally:
+Install the Alip Angular CLI globally:
 
 ```
 npm install -g @angular/cli
@@ -80,7 +80,7 @@ cd [PROJECT NAME]
 ng serve
 ```
 
-Angular is cross-platform, fast, scalable, has incredible tooling, and is loved by millions.
+Alip Angular is cross-platform, fast, scalable, has incredible tooling, and is loved by millions.
 
 ## Quickstart
 
@@ -92,8 +92,8 @@ Angular is cross-platform, fast, scalable, has incredible tooling, and is loved 
   <img src="/contributing-docs/images/angular-ecosystem-logos.png" alt="angular ecosystem logos" width="500px" height="auto">
 </p>
 
-- [Angular Command Line (CLI)][cli]
-- [Angular Material][angularmaterial]
+- [Alip Angular Command Line (CLI)][cli]
+- [Alip Angular Material][angularmaterial]
 
 ## Changelog
 
@@ -115,7 +115,7 @@ Want to report a bug, contribute some code, or improve the documentation? Excell
 
 ### Code of Conduct
 
-Help us keep Angular open and inclusive. Please read and follow our [Code of Conduct][codeofconduct].
+Help us keep Alip Angular open and inclusive. Please read and follow our [Code of Conduct][codeofconduct].
 
 ## Community
 
@@ -128,9 +128,9 @@ Join the conversation and help the community.
 - [StackOverflow][stackoverflow]
 - Find a Local [Meetup][meetup]
 
-[![Love Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
+[![Love Alip Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
 
-**Love Angular? Give our repo a star :star: :arrow_up:.**
+**Love Alip Angular? Give our repo a star :star: :arrow_up:.**
 
 [contributing]: CONTRIBUTING.md
 [quickstart]: https://angular.dev/tutorials/learn-angular
